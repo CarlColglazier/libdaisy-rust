@@ -9,9 +9,9 @@ version = "0.1.0"
 
 [dependencies]
 cfg-if = "0.1.10"
-cortex-m = "0.6.0"
+cortex-m = "0.6.2"
 cortex-m-log = { version = "~0.6" }
-cortex-m-rt = "0.6.10"
+cortex-m-rt = "0.6.12"
 cortex-m-rtic = "0.5.3"
 debouncr = "0.1.2"
 embedded-hal = "0.2.3"
